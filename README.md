@@ -177,5 +177,5 @@ aws-ec2-provisioner/
 
 ## Author
 
-**Chathura** — AWS Solutions Architect Associate | CKA | Terraform Associate  
-[LinkedIn](https://linkedin.com/in/<your-profile>) · [GitHub](https://github.com/<your-username>)
+**Chathura Dandeniya** — AWS Solutions Architect Associate | CKA | Terraform Associate  
+[LinkedIn](https://www.linkedin.com/in/chathura-dandeniya-7913b022b/) · [GitHub](https://github.com/chathura-dandeniya/aws-ec2-provisioner)
